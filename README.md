@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @JoaNIAS
 - 👀 I’m interested in Data analytics, ML
 - 🌱 I’m currently learning: Python [libraries: Pandas, Matplotlib, NumPy], PowerBI, Tableou, SQL, Excel
-- 💞️ I’m looking to collaborate on Data analysis projects
+- 💞️ I am looking for an opportunity to collaborate on data analysis projects, to work as a data analyst 
 - 📫 How to reach me joanns.engels@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... )
 
 <!---
 JoaNIAS/JoaNIAS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
